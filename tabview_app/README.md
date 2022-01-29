@@ -4,11 +4,11 @@ In this tutorial, I'll show you how to use tabs with SliverAppBar in your flutte
 
 This what the final result will look like:
 
-![Result][img.resutl]
+![Result][img.result]
 
 #### Table of contents
-- [Implement TabBar](#implement_tabbar)
-- [Customize TabBar](#customize_tabbar)
+- [Implement TabBar](#implement-tabbar)
+- [Customize TabBar](#customize-tabbar)
 
 ## Implement TabBar
 To implement TabBar and SliverAppBar in your app, follow these steps:
