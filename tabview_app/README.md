@@ -95,4 +95,4 @@ child: TabBar(
 In this tutorial, I shown you how to add TabBar and SliverAppBar in your flutter app.
 For full walk through you can follow me on the video on Youtube.
 
-[img.result]: /images/img_01.png
+[img.result]: images/img_01.png
