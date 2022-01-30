@@ -6,6 +6,9 @@ This what the final result will look like:
 
 ![Result][img.result]
 
+### Video on `Youtube`:
+[![Part 1](https://img.youtube.com/vi/p0VBhqKwWCs/maxresdefault.jpg)](https://youtu.be/p0VBhqKwWCs)
+
 #### Table of contents
 - [Implement TabBar](#implement-tabbar)
 - [Customize TabBar](#customize-tabbar)
